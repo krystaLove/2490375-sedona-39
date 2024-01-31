@@ -2,6 +2,7 @@
 
 * Студент: [Денис Журавков](https://up.htmlacademy.ru/htmlcss/39/user/2490375).
 * Наставник: [Виктор Рыбаков](https://htmlacademy.ru/profile/viktor-rybakov).
+* Сайт: [Ссылка на Github Pages](https://krystalove.github.io/2490375-sedona-39/).
 
 ---
 
