@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Денис Журавков](https://up.htmlacademy.ru/htmlcss/39/user/2490375).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктор Рыбаков](https://htmlacademy.ru/profile/viktor-rybakov).
 
 ---
 
